@@ -235,3 +235,5 @@ SSEDump/*
 __recovery
 __recovery/*
 /Tools/xDump/SSEDump.exe
+/VirtualTrees/Packages/RAD Studio 10.2/Win32
+/vcl-styles-utils/Common/*.dcu
